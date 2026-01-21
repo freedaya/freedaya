@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi 👋! I'm Fayzan Rizky Hidayat</h3>
+<h3 align="left">Hi 👋! My name is Fay</h3>
 
 ###
 
