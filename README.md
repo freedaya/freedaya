@@ -28,11 +28,8 @@
 
 ###
 
-### 👥 Socials
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/fayzan.rizky/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fayzan-rizky-hidayat/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:fayzan.rh@gmail.com)
-
 
 ###
