@@ -29,10 +29,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/fayzan.rizky/" target="_blank">
+  <a href="www.instagram.com/fayzan.rizky/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="nkedin.com/in/fayzan-rizky-hidayat/" target="_blank">
+  <a href="linkedin.com/in/fayzan-rizky-hidayat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="fayzan.rh@gmail.com" target="_blank">
