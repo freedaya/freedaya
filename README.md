@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI1bmd1ZnRnejAyNjA0cXpyajl0a2xvdTV6emsyZ3p5NThzdnBhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8K0kGoj8Xm1Mja3GH/giphy.gif"  />
+<img align="left" height="238" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlibDBqMzJwcmNnaTIxYmFpazFpaW43eDE3bzg5dWtkYXNndGpqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WMa7eMMZQ16uc/giphy.gif"  />
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Physics graduate who transitioned into Data Science, with a strong<br>analytical background and a solid foundation in mathematical modeling and<br>data analysis.<br><br>I'm advanced in Python, especially in:<br>• 🔎 pandas for data manipulation<br>• 👨‍💻 NumPy for numerical computing<br>• 📊 matplotlib & seaborn for data visualization</p>
+<p align="left">I'm a Physics graduate who  transitioned into Data Science, with a strong analytical background and a solid foundation in mathematical modeling and data analysis.<br><br>I'm advanced in Python, especially in:<br>• 🔎 pandas for data manipulation<br>• 👨‍💻 NumPy for numerical computing<br>• 📊 matplotlib & seaborn for data visualization</p>
 
 ###
 
