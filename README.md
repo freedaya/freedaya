@@ -28,8 +28,16 @@
 
 ###
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/fayzan.rizky/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fayzan-rizky-hidayat/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:fayzan.rh@gmail.com)
+<div align="left">
+  <a href="https://www.instagram.com/fayzan.rizky/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fayzan-rizky-hidayat/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:fayzan.rh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
