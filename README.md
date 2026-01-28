@@ -1,4 +1,3 @@
-<img align="left" height="238" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5cjg0a2ZidTN0YWx5ODR0Ym45bzh2NmthajdobW9zYW43OWltdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RXyLRBZiZeTu0/giphy.gif"  />
 
 ###
 
