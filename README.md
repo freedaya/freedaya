@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm a Physics graduate who  transitioned into Data Science, with a strong analytical background and a solid foundation in mathematical modeling and data analysis.<br><br>I'm advanced in Python, especially in:<br>• 🔎 pandas for data manipulation<br>• 👨‍💻 NumPy for numerical computing<br>• 📊 matplotlib & seaborn for data visualization</p>
+<p align="left">I am a Physics graduate who transitioned into Data Science, with a strong analytical background and a solid foundation in mathematical modeling and data analysis. This repository mainly contains my data science projects, mostly developed using Jupyter Notebooks.
 
 ###
 
