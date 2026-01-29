@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I am a Physics graduate who transitioned into Data Science, with a strong analytical background and a solid foundation in mathematical modeling and data analysis. This repository mainly contains my data science projects, mostly developed using Jupyter Notebooks.
+<p align="left">I am a Physics graduate who transitioned into Data Science. This repository mainly contains my data science projects, mostly developed using Jupyter Notebooks.
 
 ###
 
